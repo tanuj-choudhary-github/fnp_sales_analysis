@@ -1,7 +1,5 @@
 # fnp_sales_analysis
 
-# 📊 FNP Sales Analysis Dashboard
-
 ## 📌 Project Overview
 This project analyzes the sales data of Ferns and Petals (FNP) to uncover key insights related to revenue, customer behavior, and product performance. The goal is to help the business make data-driven decisions and improve overall sales strategy.
 
@@ -31,9 +29,13 @@ This project analyzes the sales data of Ferns and Petals (FNP) to uncover key in
 ## 📂 Dataset
 
 The dataset consists of three CSV files:
-<a href="">Customers</a>
-<a href="">Orders</a>
-<a href="">Products</a>
+<a href="https://github.com/tanuj-choudhary-github/fnp_sales_analysis/blob/main/customers.csv">Customers</a>
+<a href="https://github.com/tanuj-choudhary-github/fnp_sales_analysis/blob/main/orders.csv">Orders</a>
+<a href="https://github.com/tanuj-choudhary-github/fnp_sales_analysis/blob/main/products.csv">Products</a>
+
+## Dashboard Preview
+
+![FNP Sales Analysis](fnp_sales_dashboard.png)
 
 
 ## 🚀 Conclusion
