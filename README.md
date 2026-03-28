@@ -29,9 +29,9 @@ This project analyzes the sales data of Ferns and Petals (FNP) to uncover key in
 ## 📂 Dataset
 
 The dataset consists of three CSV files:
-<a href="https://github.com/tanuj-choudhary-github/fnp_sales_analysis/blob/main/customers.csv">Customers</a>
-<a href="https://github.com/tanuj-choudhary-github/fnp_sales_analysis/blob/main/orders.csv">Orders</a>
-<a href="https://github.com/tanuj-choudhary-github/fnp_sales_analysis/blob/main/products.csv">Products</a>
+<a href="https://github.com/tanuj-choudhary-github/fnp_sales_analysis/blob/main/customers.csv\n">Customers</a>
+<a href="https://github.com/tanuj-choudhary-github/fnp_sales_analysis/blob/main/orders.csv\n">Orders</a>
+<a href="https://github.com/tanuj-choudhary-github/fnp_sales_analysis/blob/main/products.csv\n">Products</a>
 
 ## Dashboard Preview
 
